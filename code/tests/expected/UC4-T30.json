@@ -1,0 +1,10 @@
+{
+  "case_id": "UC4-T30",
+  "decision": "handover",
+  "reason_code": [
+    "NO_SOURCE_AVAILABLE"
+  ],
+  "amount": null,
+  "must_cite": [],
+  "needs_human": true
+}

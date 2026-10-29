@@ -1,0 +1,12 @@
+{
+  "case_id": "UC4-T12",
+  "decision": "reply",
+  "reason_code": [
+    "NO_SOURCE_AVAILABLE"
+  ],
+  "amount": null,
+  "must_cite": [
+    "RP 4.1"
+  ],
+  "needs_human": false
+}

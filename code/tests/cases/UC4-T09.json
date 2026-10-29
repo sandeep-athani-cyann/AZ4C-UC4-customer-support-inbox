@@ -1,0 +1,7 @@
+{
+  "case_id": "UC4-T09",
+  "input": {
+    "email_id": "EM-0114"
+  },
+  "note": "thread: customer withdraws earlier refund and asks about another order"
+}

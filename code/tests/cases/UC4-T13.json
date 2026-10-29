@@ -1,0 +1,7 @@
+{
+  "case_id": "UC4-T13",
+  "input": {
+    "email_id": "EM-0192"
+  },
+  "note": "address change after dispatch is refused"
+}

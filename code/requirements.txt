@@ -1,0 +1,5 @@
+# List every package your code imports, pinned to an exact version (name==version).
+# Python 3.12.
+#
+# None: the system uses only the Python 3.12 standard library (sqlite3, urllib, json, re, argparse).
+# The LLM calls go to the OpenAI-compatible HTTP endpoints of Groq and Gemini through urllib.

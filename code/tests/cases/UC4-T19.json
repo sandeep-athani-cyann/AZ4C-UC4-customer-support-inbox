@@ -1,0 +1,7 @@
+{
+  "case_id": "UC4-T19",
+  "input": {
+    "email_id": "EM-0518"
+  },
+  "note": "refund status: refund found in the refunds table"
+}

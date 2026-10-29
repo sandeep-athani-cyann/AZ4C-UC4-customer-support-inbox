@@ -1,0 +1,7 @@
+{
+  "case_id": "UC4-T15",
+  "input": {
+    "email_id": "EM-0524"
+  },
+  "note": "damage within 7 days but no photo yet: ask for the photo"
+}

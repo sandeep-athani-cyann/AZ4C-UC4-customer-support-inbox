@@ -1,0 +1,12 @@
+{
+  "case_id": "UC4-T17",
+  "decision": "reply",
+  "reason_code": [
+    "REFUND_NOT_ELIGIBLE"
+  ],
+  "amount": null,
+  "must_cite": [
+    "LH-301427"
+  ],
+  "needs_human": false
+}

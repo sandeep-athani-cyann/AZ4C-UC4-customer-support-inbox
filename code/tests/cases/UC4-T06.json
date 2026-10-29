@@ -1,0 +1,7 @@
+{
+  "case_id": "UC4-T06",
+  "input": {
+    "email_id": "EM-0673"
+  },
+  "note": "refund asked before delivery (dispatched)"
+}

@@ -1,0 +1,7 @@
+{
+  "case_id": "UC4-T20",
+  "input": {
+    "email_id": "EM-0124"
+  },
+  "note": "refund status with the order ID only in the subject"
+}

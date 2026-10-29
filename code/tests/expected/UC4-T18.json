@@ -1,0 +1,13 @@
+{
+  "case_id": "UC4-T18",
+  "decision": "reply",
+  "reason_code": [
+    "RESOLVED"
+  ],
+  "amount": null,
+  "must_cite": [
+    "HA-14",
+    "LH-301761"
+  ],
+  "needs_human": false
+}

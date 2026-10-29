@@ -1,0 +1,19 @@
+{
+  "case_id": "UC4-T01",
+  "decision": "reply_with_refund",
+  "reason_code": [
+    "REFUND_ELIGIBLE"
+  ],
+  "amount": {
+    "value": 1539.0,
+    "tolerance": 1.0
+  },
+  "must_cite": [
+    "LH-302257",
+    "RP 2.1"
+  ],
+  "needs_human": true,
+  "key_numbers": [
+    1539.0
+  ]
+}

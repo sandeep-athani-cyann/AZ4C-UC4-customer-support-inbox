@@ -1,0 +1,7 @@
+{
+  "case_id": "UC4-T14",
+  "input": {
+    "email_id": "EM-0555"
+  },
+  "note": "cancel while pending: cancelled, UPI refunded per HA-03"
+}
